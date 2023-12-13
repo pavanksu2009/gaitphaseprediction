@@ -1,0 +1,16 @@
+# Machine Learning API
+# Add all the required libraries in the requirements.txt file
+# Required Libraries 
+Flask
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+imblearn
+scipy
+scikeras
+tensorflow
+keras
+xgboost
